@@ -22,6 +22,7 @@ const BannerThree = ({ spaceBottomClass }) => {
   );
 };
 
+//hhjhjhjh
 BannerThree.propTypes = {
   spaceBottomClass: PropTypes.string
 };
