@@ -22,7 +22,7 @@ const persistConfig = {
     version: 1.1,
     storage
 }
-
+// test asd
 export const rootReducer = combineReducers({
     product: productSlice,
     program: programSlice,
